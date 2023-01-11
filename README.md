@@ -1,13 +1,13 @@
 # projet_tatia
 # Voici les fichiers à exécuter
 
-MaximaleSelectionMPL80.py \n
-etudeHeterogene.py
-etudeHeterogeneMLP.py
-etudeHeterogeneMLPavec30iterations.py
-etudeHeterogeneMLPavec80iterations.py
-etudeIterations.py
-fake.py
+MaximaleSelectionMPL80.py <br />
+etudeHeterogene.py <br />
+etudeHeterogeneMLP.py <br />
+etudeHeterogeneMLPavec30iterations.py <br />
+etudeHeterogeneMLPavec80iterations.py <br />
+etudeIterations.py <br />
+fake.py <br />
 grandeSelection.py
 grandeSelectionMPL80.py
 heteroGrand.py
