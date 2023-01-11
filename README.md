@@ -8,14 +8,14 @@ etudeHeterogeneMLPavec30iterations.py <br />
 etudeHeterogeneMLPavec80iterations.py <br />
 etudeIterations.py <br />
 fake.py <br />
-grandeSelection.py
-grandeSelectionMPL80.py
-heteroGrand.py
-heteroGrandMPL80.py
-heteroPetit.py
-heteroPetitMPL80.py
-maximaleSelection.py
-moyenneSelection.py
-moyenneSelectionMPL80.py
-petiteSelection.py
-petiteSelectionMPL80.py
+grandeSelection.py <br />
+grandeSelectionMPL80.py <br />
+heteroGrand.py <br />
+heteroGrandMPL80.py <br />
+heteroPetit.py <br />
+heteroPetitMPL80.py <br />
+maximaleSelection.py <br />
+moyenneSelection.py <br />
+moyenneSelectionMPL80.py <br />
+petiteSelection.py <br />
+petiteSelectionMPL80.py <br />
