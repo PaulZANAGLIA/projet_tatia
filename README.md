@@ -1,7 +1,7 @@
 # projet_tatia
 # Voici les fichiers à exécuter
 
-Pour les données contenant aussi de cas acceptables que de cas frauduleux :
+Pour les données contenant aussi de cas acceptables que de cas frauduleux :<br />
 maximaleSelection.py <br />
 MaximaleSelectionMPL80.py <br />
 grandeSelection.py <br />
@@ -10,8 +10,8 @@ moyenneSelection.py <br />
 moyenneSelectionMPL80.py <br />
 petiteSelection.py <br />
 petiteSelectionMPL80.py <br />
-
-Pour les données contenant davantage de cas acceptables que de cas frauduleux :
+<br />
+Pour les données contenant davantage de cas acceptables que de cas frauduleux :<br />
 etudeHeterogene.py <br />
 etudeHeterogeneMLP.py <br />
 etudeHeterogeneMLPavec30iterations.py <br />
